@@ -101,7 +101,7 @@ wistia-player[media-id='jesjyu64c2']:not(:defined) {
       <div className="container mx-auto px-4 text-center">
         <h1 className="text-2xl md:text-5xl lg:text-6xl font-bold mb-6">
           <div className="text-gray-900">We Get Your School</div>
-          <div className="text-blue-500">10-30 New Tour Bookings Every Month</div>
+          <div className="text-blue-500">5–15 New Student Enrollments in 90 Days</div>
           <div className="text-gray-900">(Or You Don't Pay)</div>
         </h1>
         
