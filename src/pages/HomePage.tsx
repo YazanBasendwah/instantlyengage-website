@@ -11,7 +11,7 @@ const HomePage: React.FC = () => {
       <section className="hero" id="home">
         <div className="container">
           <div className="hero-content">
-            <h1>We Get Your School 10-30 New Tour Bookings Every Month (Or You Don't Pay)</h1>  
+            <h1>We Get Your School 10-40 New Tour Bookings Every Month (Or You Don't Pay)</h1>  
             <p>Supporting Description Text Area - Professional digital marketing services explanation will go here</p>
             <Link to="/contact" className="cta-btn">Book A Call</Link>
           </div>
