@@ -21,7 +21,6 @@ const HomePage: React.FC = () => {
       {/* Video Section */}
       <section className="video-section" id="services">
         <div className="container">
-          <h2 className="section-title fade-in">How We Deliver 5–15 Enrollments in 90 Days</h2>
           <div className="video-placeholder fade-in">
             <div className="play-btn"></div>
             <div className="placeholder-text">Main Sales Video Placeholder - VSL Content Here</div>
