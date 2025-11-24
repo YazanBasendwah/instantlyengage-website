@@ -11,8 +11,8 @@ const HomePage: React.FC = () => {
       <section className="hero" id="home">
         <div className="container">
           <div className="hero-content">
-            <h1>We Get Your School 10-40 New Tour Bookings Every Month (Or You Don't Pay)</h1>  
-            <p>Supporting Description Text Area - Professional digital marketing services explanation will go here</p>
+            <h1>We Get Your School 5–15 New Student Enrollments in 90 Days (Or You Don't Pay)</h1>  
+            <p>WITHOUT relying on word-of-mouth referrals, waiting for parents to find you, or posting endlessly on social media</p>
             <Link to="/contact" className="cta-btn">Book A Call</Link>
           </div>
         </div>
@@ -21,13 +21,13 @@ const HomePage: React.FC = () => {
       {/* Video Section */}
       <section className="video-section" id="services">
         <div className="container">
-          <h2 className="section-title fade-in">Main Sales Video Section</h2>
+          <h2 className="section-title fade-in">How We Deliver 5–15 Enrollments in 90 Days</h2>
           <div className="video-placeholder fade-in">
             <div className="play-btn"></div>
             <div className="placeholder-text">Main Sales Video Placeholder - VSL Content Here</div>
           </div>
           <div style={{textAlign: 'center', marginTop: '30px'}}>
-            <Link to="/contact" className="cta-btn">Book A Call After Video</Link>
+            <Link to="/contact" className="cta-btn">Book Your Strategy Call</Link>
           </div>
         </div>
       </section>
